@@ -1,5 +1,6 @@
 VMWare Windows 10 ftp set up
 ========
+[referrence](https://www.windowscentral.com/how-set-ftp-server-windows-10)
 
 ## install the FTP server components on Windows 10
 
