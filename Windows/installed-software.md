@@ -7,3 +7,4 @@ Software Installed
 - wechat
 - QQ
 - winrar
+- abobe flash player
