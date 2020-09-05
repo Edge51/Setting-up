@@ -6,3 +6,4 @@ Software Installed
 - vivado
 - wechat
 - QQ
+- winrar
