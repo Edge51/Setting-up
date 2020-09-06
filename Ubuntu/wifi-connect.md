@@ -11,3 +11,5 @@ sudo apt-mark hold wpasupplicant
 sudo /etc/init.d/network-manager restart
 
 ```
+
+I discard change above.
