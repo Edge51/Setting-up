@@ -52,3 +52,9 @@ sudo update-locale LANG=en_GB.UTF-8
 ## markdown to pdf support
 - pandoc and grip with chromium
   - for outputting pdf from markdown
+
+
+## birdtray
+```
+sudo apt-get install birdtray
+```
