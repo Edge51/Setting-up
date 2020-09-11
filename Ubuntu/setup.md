@@ -1,4 +1,4 @@
-# Setup
+# Setup starts from brand new Ubuntu
 
 ## setting path
 
@@ -38,3 +38,17 @@ chsh -s $(which zsh)
 ```
 sudo apt-get install git
 ```
+
+## Chinese display support
+
+```
+sudo apt-get install language-pack-zh*
+sudo apt-get install chinese*
+
+sudo locale-gen en_GB.UTF-8
+sudo update-locale LANG=en_GB.UTF-8
+```
+
+## markdown to pdf support
+- pandoc and grip with chromium
+  - for outputting pdf from markdown
