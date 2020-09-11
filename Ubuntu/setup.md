@@ -1,1 +1,40 @@
+# Setup
 
+## setting path
+
+[environment setting advice](https://stackabuse.com/how-to-permanently-set-path-in-linux/)
+
+zsh is not bash
+
+## remove desktop icons
+- home
+```
+gsettings set org.gnome.shell.extensions.desktop-icons show-home false
+```
+- trash
+```
+gsettings set org.gnome.shell.extensions.desktop-icons show-trash false
+```
+[see also](https://www.omgubuntu.co.uk/2020/03/remove-trash-from-desktop-ubuntu)
+
+## gnome shell extensions
+```
+sudo apt-get install chrome-gnome-shell
+```
+
+## vim
+```
+sudo apt-get install vim
+```
+[vundle](https://github.com/VundleVim/Vundle.vim)
+
+## zsh
+```
+sudo apt-get install zsh
+chsh -s $(which zsh)
+```
+
+## git
+```
+sudo apt-get install git
+```
