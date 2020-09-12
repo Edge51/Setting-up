@@ -63,3 +63,6 @@ sudo apt-get install birdtray
 ```
 sudo apt-get install chromium-browser
 ```
+
+## language
+[manage in this way](https://help.ubuntu.com/lts/ubuntu-help/prefs-language-install.html.en)
