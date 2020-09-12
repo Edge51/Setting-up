@@ -8,3 +8,4 @@ Software Installed
 - QQ
 - winrar
 - abobe flash player
+- sunlogin
