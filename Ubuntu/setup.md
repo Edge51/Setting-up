@@ -58,3 +58,8 @@ sudo update-locale LANG=en_GB.UTF-8
 ```
 sudo apt-get install birdtray
 ```
+
+## chromium
+```
+sudo apt-get install chromium-browser
+```
