@@ -120,3 +120,8 @@ gsettings set org.gnome.Terminal.Legacy.Settings headerbar false
 
 ## simplenote
 install by deb downloaded from official website
+
+## for github
+```
+sudo apt-get install xclip
+```
