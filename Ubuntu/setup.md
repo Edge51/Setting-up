@@ -104,3 +104,8 @@ keyboard mapping
 ```
 sudo apt-get install ibus-pinyin 
 ```
+
+## hide top bar
+```
+sudo apt install gnome-shell-extension-autohidetopbar
+```
