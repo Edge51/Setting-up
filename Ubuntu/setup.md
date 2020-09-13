@@ -102,7 +102,8 @@ keyboard mapping
 
 ## Chinese input method
 ```
-sudo apt-get install ibus-pinyin 
+sudo apt-get install ibus-pinyin
+im-switch -s fcitx
 ```
 
 ## hide top bar
