@@ -106,9 +106,16 @@ sudo apt-get install fcitx
 im-switch -s fcitx
 ```
 
-## hide top bar
+## hide bars
+- ubuntu top bar
 ```
 sudo apt install gnome-shell-extension-autohidetopbar
+```
+- title bar
+
+```
+sudo apt-get install gnome-shell-extension-pixelsaver
+gsettings set org.gnome.Terminal.Legacy.Settings headerbar false
 ```
 
 ## simplenote
