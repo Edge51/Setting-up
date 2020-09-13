@@ -100,8 +100,9 @@ keyboard mapping
 |activity bar|ctrl+'|
 
 ## Chinese input method
+install sogoupinyin by deb downloaded from official website
 ```
-sudo apt-get install ibus-pinyin
+sudo apt-get install fcitx
 im-switch -s fcitx
 ```
 
@@ -109,5 +110,6 @@ im-switch -s fcitx
 ```
 sudo apt install gnome-shell-extension-autohidetopbar
 ```
+
 ## simplenote
 install by deb downloaded from official website
