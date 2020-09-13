@@ -86,3 +86,7 @@ for videos on firefox
 ```
 sudo apt-get install flashplugin-installer
 ```
+## enable videos
+```
+sudo apt install libavcodec-extra
+```
