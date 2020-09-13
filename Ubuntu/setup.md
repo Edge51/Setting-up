@@ -99,3 +99,8 @@ keyboard mapping
 |fuction|shortcuts|
 |-----|-----|
 |activity bar|ctrl+'|
+
+## Chinese input method
+```
+sudo apt-get install ibus-pinyin 
+```
