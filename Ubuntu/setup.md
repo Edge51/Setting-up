@@ -77,3 +77,7 @@ settings-->keyboard shortcuts
 
 ## python
 currently use the python3 installed by default.
+- install pip
+```
+sudo apt-get install python3-pip
+```
