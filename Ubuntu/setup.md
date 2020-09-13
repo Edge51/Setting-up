@@ -92,9 +92,8 @@ sudo apt install libavcodec-extra
 ```
 
 ## vscode
-```
-sudo apt-get install code
-```
+install by deb downloaded from official website.
+
 keyboard mapping
 |fuction|shortcuts|
 |-----|-----|
