@@ -90,3 +90,12 @@ sudo apt-get install flashplugin-installer
 ```
 sudo apt install libavcodec-extra
 ```
+
+## vscode
+```
+sudo apt-get install code
+```
+keyboard mapping
+|fuction|shortcuts|
+|-----|-----|
+|activity bar|ctrl+'|
