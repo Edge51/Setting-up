@@ -109,3 +109,5 @@ im-switch -s fcitx
 ```
 sudo apt install gnome-shell-extension-autohidetopbar
 ```
+## simplenote
+install by deb downloaded from official website
