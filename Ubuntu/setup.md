@@ -81,3 +81,8 @@ currently use the python3 installed by default.
 ```
 sudo apt-get install python3-pip
 ```
+## abobe flash player
+for videos on firefox
+```
+sudo apt-get install flashplugin-installer
+```
