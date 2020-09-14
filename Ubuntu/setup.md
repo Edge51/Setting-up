@@ -28,6 +28,11 @@ sudo apt-get install vim
 ```
 [vundle](https://github.com/VundleVim/Vundle.vim)
 
+## powerline fonts
+```
+sudo apt-get install fonts-powerline
+```
+
 ## zsh
 ```
 sudo apt-get install zsh
