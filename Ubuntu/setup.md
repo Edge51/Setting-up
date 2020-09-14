@@ -67,6 +67,8 @@ antigen theme robbyrussell
 # Tell Antigen that you're done.
 antigen apply
 ```
+Additionally, I set the bundle directory manually by changing the default directory environment in antigen.zsh
+
 [more informations](https://github.com/zsh-users/antigen)
 
 ## git
