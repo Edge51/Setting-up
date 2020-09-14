@@ -33,6 +33,11 @@ sudo apt-get install vim
 sudo apt-get install zsh
 chsh -s $(which zsh)
 ```
+#### zsh plugins
+- antigen
+```
+sudo apt-get install zsh-antigen
+```
 
 ## git
 ```
