@@ -118,6 +118,10 @@ currently use the python3 installed by default.
 ```
 sudo apt-get install python3-pip
 ```
+- install numpy
+```
+sudo apt-get install python3-numpy
+```
 ## abobe flash player
 for videos on firefox
 ```
