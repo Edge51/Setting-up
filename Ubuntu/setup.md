@@ -171,3 +171,8 @@ sudo apt-get install xclip
 ```
 sudo apt-get install curl
 ```
+
+## latex install
+```
+sudo apt-get install texlive-full
+```
