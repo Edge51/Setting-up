@@ -190,3 +190,8 @@ sudo apt-get install gimp
 
 ## QQ
 [install from .deb](https://im.qq.com/linuxqq/index.html)
+
+## totem ( video player)
+```
+sudo apt-get install totem
+```
