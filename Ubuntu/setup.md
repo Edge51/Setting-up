@@ -187,3 +187,6 @@ sudo apt-get install octave-control octave-image octave-io octave-optim octave-s
 ```
 sudo apt-get install gimp
 ```
+
+## QQ
+[install from .deb](https://im.qq.com/linuxqq/index.html)
