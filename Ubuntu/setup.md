@@ -176,3 +176,14 @@ sudo apt-get install curl
 ```
 sudo apt-get install texlive-full
 ```
+
+## octave
+```
+sudo apt-get install octave
+sudo apt-get install octave-control octave-image octave-io octave-optim octave-signal octave-statistics
+```
+
+## gimp
+```
+sudo apt-get install gimp
+```
