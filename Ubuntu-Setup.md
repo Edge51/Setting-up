@@ -195,3 +195,8 @@ sudo apt-get install gimp
 ```
 sudo apt-get install totem
 ```
+
+## transmission
+```
+sudo apt-get install transmission
+```
