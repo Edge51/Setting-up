@@ -205,3 +205,8 @@ sudo apt-get install vlc
 ```
 sudo apt-get install transmission
 ```
+
+## dia (diagram creation program)
+```
+sudo apt-get install dia
+```
