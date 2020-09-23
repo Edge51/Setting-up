@@ -215,3 +215,8 @@ sudo apt-get install dia
 ```
 sudo apt-get install dosbox
 ```
+
+## nasm ( assembly language required )
+```
+sudo apt-get install nasm
+```
