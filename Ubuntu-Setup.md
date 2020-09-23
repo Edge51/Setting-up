@@ -210,3 +210,8 @@ sudo apt-get install transmission
 ```
 sudo apt-get install dia
 ```
+
+## dosbox ( course lab required )
+```
+sudo apt-get install dosbox
+```
