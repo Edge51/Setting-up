@@ -30,7 +30,7 @@ sudo apt-get install vim
 
 ## powerline fonts
 ```
-sudo apt-get install fonts-powerline
+sudo apt-get install fonts-powerlinehttps://linux.wps.com/
 ```
 
 ## zsh
@@ -81,7 +81,7 @@ sudo apt-get install git
 ```
 sudo apt-get install language-pack-zh*
 sudo apt-get install chinese*
-
+https://linux.wps.com/
 sudo locale-gen en_GB.UTF-8
 sudo update-locale LANG=en_GB.UTF-8
 ```
@@ -220,3 +220,6 @@ sudo apt-get install dosbox
 ```
 sudo apt-get install nasm
 ```
+
+## wps
+[installed by deb](https://linux.wps.com/)
