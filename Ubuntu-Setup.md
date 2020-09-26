@@ -223,3 +223,8 @@ sudo apt-get install nasm
 
 ## wps
 [installed by deb](https://linux.wps.com/)
+
+## mysql
+```
+sudo apt-get install mysql-8.0
+```
