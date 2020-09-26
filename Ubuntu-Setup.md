@@ -226,5 +226,6 @@ sudo apt-get install nasm
 
 ## mysql
 ```
-sudo apt install mysql-client-core-8.0
+sudo apt-get install mysql-client-core-8.0
+sudo apt-get install mysql-server
 ```
