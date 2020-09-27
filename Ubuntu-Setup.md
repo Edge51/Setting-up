@@ -230,3 +230,4 @@ sudo apt-get install mysql-client-core-8.0
 sudo apt-get install mysql-server
 ```
 [follow the tutorial](https://www.mysqltutorial.org/install-mysql-ubuntu/)
+[mysql workbench installed by deb](https://dev.mysql.com/downloads/workbench/)
