@@ -232,6 +232,10 @@ sudo apt-get install mysql-server
 [follow the tutorial](https://www.mysqltutorial.org/install-mysql-ubuntu/)
 [mysql workbench installed by deb](https://dev.mysql.com/downloads/workbench/)
 
-## youdao dict
+## youdao dict ( purged
 
 [installed by official deb](http://cidian.youdao.com/index-linux.html)
+purged by 
+```
+sudo apt-get purge youdao-dict
+```
