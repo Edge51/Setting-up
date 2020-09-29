@@ -246,3 +246,6 @@ sudo apt-get install goldendict-wordnet
 sudo apt-get install dict-gcide
 ```
 then source the offline dictionary files in /usr/share/goldendict-wordnet( for example )
+
+## dns
+add dns 233.5.5.5
