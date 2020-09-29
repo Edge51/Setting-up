@@ -231,3 +231,7 @@ sudo apt-get install mysql-server
 ```
 [follow the tutorial](https://www.mysqltutorial.org/install-mysql-ubuntu/)
 [mysql workbench installed by deb](https://dev.mysql.com/downloads/workbench/)
+
+## youdao dict
+
+[installed by official deb](http://cidian.youdao.com/index-linux.html)
