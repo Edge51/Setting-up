@@ -21,6 +21,18 @@ gsettings set org.gnome.shell.extensions.desktop-icons show-trash false
 ```
 sudo apt-get install chrome-gnome-shell
 ```
+- ubuntu top bar
+```
+sudo apt install gnome-shell-extension-autohidetopbar
+```
+- title bar
+
+```
+sudo apt-get install gnome-shell-extension-pixelsaver
+gsettings set org.gnome.Terminal.Legacy.Settings headerbar false
+```
+- dash-to-dock ( auto hide dock )
+
 
 ## vim
 ```
@@ -145,18 +157,6 @@ install sogoupinyin by deb downloaded from official website
 ```
 sudo apt-get install fcitx
 im-switch -s fcitx
-```
-
-## hide bars
-- ubuntu top bar
-```
-sudo apt install gnome-shell-extension-autohidetopbar
-```
-- title bar
-
-```
-sudo apt-get install gnome-shell-extension-pixelsaver
-gsettings set org.gnome.Terminal.Legacy.Settings headerbar false
 ```
 
 ## simplenote
