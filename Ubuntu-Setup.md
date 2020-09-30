@@ -248,5 +248,12 @@ sudo apt-get install dict-gcide
 then source the offline dictionary files in /usr/share/goldendict-wordnet( for example )
 
 ## dns
-in setting graphical UI choose wifi and add dns 233.5.5.5
+in setting graphical UI choose wifi and add dns 223.5.5.5
 
+## github blog
+```
+sudo apt-get install ruby-bundler
+sudo apt-get install jekyll
+sudo apt-get install gem
+bundle install
+```
