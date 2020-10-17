@@ -26,6 +26,7 @@ sudo apt-get install chrome-gnome-shell
 sudo apt install gnome-shell-extension-autohidetopbar
 ```
 - title bar
+- time++
 
 ```
 sudo apt-get install gnome-shell-extension-pixelsaver
