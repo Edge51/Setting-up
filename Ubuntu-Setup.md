@@ -278,7 +278,7 @@ bundle update
 bundle install
 ```
 
-## evolution (for calendar plugin)
+## evolution (for calendar plugin)( purged )
 ```
 sudo apt-get install evolution
 ```
