@@ -7,31 +7,15 @@
 zsh is not bash
 
 ## remove desktop icons
-- home
-```
-gsettings set org.gnome.shell.extensions.desktop-icons show-home false
-```
-- trash
-```
-gsettings set org.gnome.shell.extensions.desktop-icons show-trash false
-```
+install gnome shell extension and remove them in tweaks.
 [see also](https://www.omgubuntu.co.uk/2020/03/remove-trash-from-desktop-ubuntu)
 
 ## gnome shell extensions
 ```
-sudo apt-get install chrome-gnome-shell
+sudo apt-get install gnome-shell-extensions
 ```
-- ubuntu top bar
-```
-sudo apt install gnome-shell-extension-autohidetopbar
-```
-- title bar
+- hide top bar
 - time++
-
-```
-sudo apt-get install gnome-shell-extension-pixelsaver
-gsettings set org.gnome.Terminal.Legacy.Settings headerbar false
-```
 - dash-to-dock ( auto hide dock )
 
 
@@ -89,15 +73,13 @@ Additionally, I set the bundle directory manually by changing the default direct
 sudo apt-get install git
 ```
 
-## Chinese display support
+## language and input method
+[references](https://www.pinyinjoe.com/linux/ubuntu-18-gnome-chinese-setup.htm)
+manage through graphical way.
+In application "language support" install chinese language support.
+And then log out the ubuntu to update.
+In settings-->region and language-->input sourses: add a keyboard layout named "Chinese(Intelligent Pinyin)
 
-```
-sudo apt-get install language-pack-zh*
-sudo apt-get install chinese*
-https://linux.wps.com/
-sudo locale-gen en_GB.UTF-8
-sudo update-locale LANG=en_GB.UTF-8
-```
 
 ## markdown to pdf support
 - pandoc and grip with chromium
@@ -114,8 +96,6 @@ sudo apt-get install birdtray
 sudo apt-get install chromium-browser
 ```
 
-## language
-[manage in this way](https://help.ubuntu.com/lts/ubuntu-help/prefs-language-install.html.en)
 
 ## keyboard shortcut remap
 settings-->keyboard shortcuts
@@ -153,12 +133,6 @@ keyboard mapping
 |-----|-----|
 |activity bar|ctrl+'|
 
-## Chinese input method
-install sogoupinyin by deb downloaded from official website
-```
-sudo apt-get install fcitx
-im-switch -s fcitx
-```
 
 ## simplenote
 install by deb downloaded from official website
@@ -197,10 +171,7 @@ sudo apt-get install gimp
 sudo apt-get install totem
 ```
 
-## vlc ( video player )
-```
-sudo apt-get install vlc
-```
+
 
 ## transmission
 ```
