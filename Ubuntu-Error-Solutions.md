@@ -1,6 +1,12 @@
 Ubuntu Error Solutions
 =======
 
+## WIFI connection in network with authentication
+
+choose **Protected EAP(PEAP)** for option "authentication"
+
+choose **MSCHAPv2** for "inner authentication"
+
 ## ReText
 
 the default ReText does not display math formula.
