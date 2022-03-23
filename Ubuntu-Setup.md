@@ -1,5 +1,9 @@
 # Setup starts from brand new Ubuntu
 
+## change the source for apt to mirros.aliyun.com
+
+this can be done by visit the graphical interface of update settings.
+
 ## setting path
 
 [environment setting advice](https://stackabuse.com/how-to-permanently-set-path-in-linux/)
