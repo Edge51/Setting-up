@@ -1,6 +1,11 @@
 Ubuntu Error Solutions
 =======
 
+## linux下使用intelligent pinyin输入中文在idea、pycharm中失效的问题
+1. 点击菜单 "Help | Edit Custom VM options..."
+2. 添加 -Drecreate.x11.input.method=true 到最后一行
+3. 重启IDEA
+
 ## WIFI connection in network with authentication
 
 choose **Protected EAP(PEAP)** for option "authentication"
