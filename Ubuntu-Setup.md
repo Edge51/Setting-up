@@ -1,5 +1,8 @@
 # Setup starts from brand new Ubuntu
 
+## install tldr
+
+
 ## change the source for apt to mirros.aliyun.com
 
 this can be done by visit the graphical interface of update settings.
