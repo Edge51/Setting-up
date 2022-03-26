@@ -1,5 +1,16 @@
-Ubuntu Error Solutions
-=======
+# Ubuntu Error Solutions
+
+## can not login to mysql via user root
+
+```
+$ mysql -u root -p
+ERROR 1698 (28000): Access denied for user 'root'@'localhost' 
+The auth_socket plugin checks whether the socket user name (the operating system user name) matches the MySQL user name specified by the client program to the server. 
+```
+solution:
+```
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH caching_sha2_password BY 'Password123#@!';
+```
 
 ## linux下使用intelligent pinyin输入中文在idea、pycharm中失效的问题
 1. 点击菜单 "Help | Edit Custom VM options..."
